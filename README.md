@@ -1,11 +1,4 @@
 
-# Inicio rápido en Couchbase Lite con Android y Java
-#### Cree una aplicación de Android en Java con Couchbase Lite
-
-> Este repositorio está diseñado para mostrarle una aplicación que permite a los usuarios iniciar sesión y realizar cambios en la información de su perfil de usuario. La información del perfil del usuario se conserva como un documento en la base de datos local de Couchbase Lite. Cuando el usuario cierra sesión y vuelve a iniciarla, la información del perfil se carga desde la base de datos.
-
-La documentación completa se puede encontrar en el [Portal para desarrolladores de Couchbase](https://developer.couchbase.com/tutorial-quickstart-android-java-basic/).
-
 
 ## Requisitos previos
 Para ejecutar este proyecto prediseñado, necesitará:
